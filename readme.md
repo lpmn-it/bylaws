@@ -1,7 +1,17 @@
 # Libertarian Party of Minnesota Bylaws
-To view this document in a consolidated PDF format, click [here](https://www.lpmn.org/wp-content/uploads/2023/08/LPMN-Bylaws-2023.pdf).
 
-1. [Purpose](docs/1_purpose.md)
-2. [Statement of Principles](docs/2_statement_of_principles.md)
-3. [Affiliation with the National Libertarian Party](docs/3_affiliation_with_lnc.md)
-4. [Membership](docs/4_membership.md)
+1. [Purpose](docs/01_purpose.md)
+2. [Statement of Principles](docs/02_statement_of_principles.md)
+3. [Affiliation with the National Libertarian Party](docs/03_affiliation_with_lnc.md)
+4. [Membership](docs/04_membership.md)
+5. [Election Methods](docs/05_election_methods.md)
+6. [Officers & Executive Committee](docs/06_officers_executive_committee.md)
+7. [Platform & Bylaws Committee](docs/07_platform_bylaws_committee.md)
+8. [Judicial Committee](docs/08_judicial_committee)
+9. [Convention Rules](docs/09_convention_rules)
+10. [Nomination and Endorsement of Candidates](docs/10_nomination_endorsement_candidates.md)
+11. [Withdrawl of Nomination or Endorsement](docs/11_withdrawl_nomination_endorsement.md)
+12. [Affiliates](docs/12_affiliates.md)
+13. [Contact Data Usage Guidelines](docs/13_contact_data_usage_guidelines.md)
+14. [Campaign Laws](docs/14_campaign_laws)
+15. [Policies, Procedures, & Rules](docs/15_policies_procedures_rules.md)
