@@ -4,4 +4,4 @@ To view this document in a consolidated PDF format, click [here](https://www.lpm
 1. [Purpose](docs/1_purpose.md)
 2. [Statement of Principles](docs/2_statement_of_principles.md)
 3. [Affiliation with the LNC](docs/3_affiliation_with_lnc.md)
-4. [Membership](docs/membership.md)
+4. [Membership](docs/4_membership.md)
