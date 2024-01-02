@@ -13,7 +13,7 @@ If there are the same number or fewer candidates in an election than there are o
 5. If the ballots are exhausted without a winner, the body has the discretion to either leave the position vacant, or by majority vote, cast another round of RCV ballots among the remaining candidates.
 6. If the threshold for victory is two-thirds, tabulation will stop if two candidates have at least one-third of the ballots allocated, making it impossible for any candidate to reach the threshold for victory.
 
-### 5.3.Approval Voting (AV)
+### 5.3. Approval Voting (AV)
 1. On the ballot for an AV election, voters will either indicate an “approval vote” for as many candidates as said voter would choose, or the voter may mark NOTA if they do not approve of any candidates in the election. (NOTE: A ballot with a mark for NOTA and any candidates is discarded.)
 2. Candidates are elected if they meet the following three criteria:
     1. Rank in the top number of candidates for the number of open seats in terms of most approval votes received.
