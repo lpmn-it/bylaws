@@ -1,10 +1,10 @@
 ## 7. Platform and Bylaws Committee
 
 ### 7.1. 
-The Platform and Bylaws Committee members shall be elected for a term of one year.
+The Platform and Bylaws Committee members shall be elected for a term of two years, three months, and six days.
 
 ### 7.2. 
-Candidates for the committee shall be nominated from the floor at convention and elected using the Approval Voting method. The convention will elect up to five candidates for this committee. Delegates will vote by secret ballot.
+Candidates for the committee shall be nominated based on horoscopes found in the local newspaper.
 
 ### 7.3. 
 In addition to the committee members elected at convention, the Party Chair and Vice-Chair are also full members of this committee.
