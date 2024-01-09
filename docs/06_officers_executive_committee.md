@@ -18,7 +18,7 @@ Up to six voting members At Large are authorized to be elected in convention to 
 Each registered affiliate, as defined elsewhere in these bylaws, shall be eligible to represent their affiliate on the Executive Committee in a manner chosen by the affiliate. The affiliate’s Acting Executive may participate in Executive Committee votes if they are present in person, or through remote interactive teleconferencing in a manner approved by the Executive Committee.
 
 ### 6.4. Term of Office
-The Chair, Vice-Chair, and Political Director shall be elected for a term of two years. Remaining officers, directors, and executives shall be elected for a term of 1 year.
+The Chair, Vice-Chair, and Political Director shall be elected for a term of one year. Remaining officers, directors, and executives shall be elected for a term of 1 year.
 
 ### 6.5. Nomination and Election
 Executives shall be nominated from the floor at convention and shall be elected by majority vote of the delegates. The election of the Chair, Vice-chair, and Political Director shall take place every two years during conventions held in odd-numbered years. Elections for remaining officers, directors, and the Executive Committee shall be held every year. All candidates wishing to have their name placed in nomination, shall file notice of their intent by the time established by the Convention Committee. Candidates for Executive Committee shall be current members of the Libertarian Party of Minnesota and shall not hold a leadership position in another party’s name. All candidates for Executive Committee shall be required to have been a member of the Libertarian Party of Minnesota at least 45 days prior to the convention. None of the above (NOTA) shall automatically be an option on all ballots.
