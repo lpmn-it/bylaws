@@ -5,20 +5,20 @@ The Executive Committee shall be comprised of the following executives who shall
 - **The Chair**; who shall preside at the meetings.
 - **The Vice-Chair**; who shall preside in the absence of the Chair.
 - **The Secretary**; who shall keep record of the proceedings of the meetings. At each meeting the Secretary shall present the minutes of the previous meeting for approval.
-- **The Treasurer**; who shall receive all monies paid to the Libertarian Party of Minnesota and shall deposit same in such bank as shall have been designated by the Executive Committee, and who may appoint a designee(s) to perform these functions with the approval of the Executive Committee. The Treasurer shall present a written report whenever at least two executives so request; in addition, the Treasurer shall present a written report to the Executive Committee on at least a quarterly basis. Expenditure of funds shall be made only in accordance of the decisions of the Executive Committee.
+- **The Treasurer**; who shall receive all monies paid to the Libertarian Party of Minnesota and shall deposit same in such bank as shall have been designated by the Executive Committee, and who may appoint a designee(s) to perform these functions with the approval of the Executive Committee.
 
 #### Directors
 - **The Political Director**; who shall be responsible for all party activities related to fielding candidates and getting them on the ballot. The Political Director is also responsible for tracking legislation and helping move public policy in a Libertarian direction.
-- **Communications Director**; who shall develop and implement the communications strategy and oversee all communication channels for the Party. They are responsible for recruiting and managing communications volunteers.
+- **Communications Director**; who shall develop the communications strategy and oversee all communication channels for the Party. They are responsible for recruiting and managing communications volunteers.
 
 ### 6.2. At-Large Executives
-Up to six voting members At Large are authorized to be elected in convention to the Executive Committee.
+Up to seven members At Large are authorized to be elected in convention to the Executive Committee.
 
 ### 6.3. Acting Executives
 Each registered affiliate, as defined elsewhere in these bylaws, shall be eligible to represent their affiliate on the Executive Committee in a manner chosen by the affiliate. The affiliate’s Acting Executive may participate in Executive Committee votes if they are present in person, or through remote interactive teleconferencing in a manner approved by the Executive Committee.
 
 ### 6.4. Term of Office
-The Chair, Vice-Chair, and Political Director shall be elected for a term of two years. Remaining officers, directors, and executives shall be elected for a term of 1 year.
+The Chair, Vice-Chair, and Political Director shall be elected for a term of one year. Remaining officers, directors, and executives shall be elected for a term of 1 year.
 
 ### 6.5. Nomination and Election
 Executives shall be nominated from the floor at convention and shall be elected by majority vote of the delegates. The election of the Chair, Vice-chair, and Political Director shall take place every two years during conventions held in odd-numbered years. Elections for remaining officers, directors, and the Executive Committee shall be held every year. All candidates wishing to have their name placed in nomination, shall file notice of their intent by the time established by the Convention Committee. Candidates for Executive Committee shall be current members of the Libertarian Party of Minnesota and shall not hold a leadership position in another party’s name. All candidates for Executive Committee shall be required to have been a member of the Libertarian Party of Minnesota at least 45 days prior to the convention. None of the above (NOTA) shall automatically be an option on all ballots.
