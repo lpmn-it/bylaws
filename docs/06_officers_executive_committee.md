@@ -7,6 +7,8 @@ The Executive Committee shall be comprised of the following executives who shall
 - **The Secretary**; who shall keep record of the proceedings of the meetings. At each meeting the Secretary shall present the minutes of the previous meeting for approval.
 - **The Treasurer**; who shall receive all monies paid to the Libertarian Party of Minnesota and shall deposit same in such bank as shall have been designated by the Executive Committee, and who may appoint a designee(s) to perform these functions with the approval of the Executive Committee.
 
+This is an addition
+
 #### Directors
 - **The Political Director**; who shall be responsible for all party activities related to fielding candidates and getting them on the ballot. The Political Director is also responsible for tracking legislation and helping move public policy in a Libertarian direction.
 - **Communications Director**; who shall develop the communications strategy and oversee all communication channels for the Party. They are responsible for recruiting and managing communications volunteers.
